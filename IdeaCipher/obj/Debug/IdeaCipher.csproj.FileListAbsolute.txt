@@ -1,0 +1,10 @@
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\bin\Debug\IdeaCipher.exe.config
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\bin\Debug\IdeaCipher.exe
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\bin\Debug\IdeaCipher.pdb
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.csprojResolveAssemblyReference.cache
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.cipherForm.resources
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.Properties.Resources.resources
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.csproj.GenerateResource.Cache
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.csproj.CoreCompileInputs.cache
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.exe
+E:\donem7\cryptography\IdeaCipher-master\IdeaCipher-master\IdeaCipher\obj\Debug\IdeaCipher.pdb
